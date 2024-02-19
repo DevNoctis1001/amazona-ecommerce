@@ -70,10 +70,6 @@ $ npm start
 -   Run http://localhost:3000/signin
 -   Enter admin email and password and click signin
 
-## Support
-
--   Contact Developer: [Fahim](mailto:fahimulhoquejason@gmail.com)
-
 # Works
 
 1. Introduction
